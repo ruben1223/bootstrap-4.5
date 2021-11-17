@@ -27,3 +27,23 @@
     background-color: greenyellow;
     border: 6px solid grey;
 }
+
+.pt-5{
+    background-color: red;
+    border: 6px solid aqua;
+}
+
+.pb-5{
+    background-color: red;
+    border: 6px solid aqua;
+}
+
+.pl-5{
+    background-color: red;
+    border: 6px solid aqua;
+}
+
+.pr-5{
+    background-color: red;
+    border: 6px solid aqua;
+}
